@@ -1,0 +1,168 @@
+n = 3000, max = 1000000
+
+BUBBLESORT: numerele au fost sortate
+	1.2809436321258545 secunde
+
+COUNTSORT: numerele au fost sortate
+	0.14059209823608398 secunde
+
+RADIXSORT baza 256: numerele au fost sortate
+	0.0 secunde
+
+RADIXSORT baza 16: numerele au fost sortate
+	0.015621662139892578 secunde
+
+MERGESORT: numerele au fost sortate
+	0.015621185302734375 secunde
+
+QUICKSORT pivot random: numerele au fost sortate
+	0.015621423721313477 secunde
+
+QUICKSORT pivot mediana din 3: numerele au fost sortate
+	0.0 secunde
+
+
+n = 6000, max = 10000
+
+BUBBLESORT: numerele nu pot fi sortate
+	0 secunde
+
+COUNTSORT: numerele au fost sortate
+	0.04686474800109863 secunde
+
+RADIXSORT baza 256: numerele au fost sortate
+	0.015620946884155273 secunde
+
+RADIXSORT baza 16: numerele au fost sortate
+	0.015620946884155273 secunde
+
+MERGESORT: numerele au fost sortate
+	0.03124260902404785 secunde
+
+QUICKSORT pivot random: numerele au fost sortate
+	0.031242847442626953 secunde
+
+QUICKSORT pivot mediana din 3: numerele au fost sortate
+	0.015621423721313477 secunde
+
+
+n = 10000, max = 100000
+
+BUBBLESORT: numerele nu pot fi sortate
+	0 secunde
+
+COUNTSORT: numerele au fost sortate
+	0.06248736381530762 secunde
+
+RADIXSORT baza 256: numerele au fost sortate
+	0.03124237060546875 secunde
+
+RADIXSORT baza 16: numerele au fost sortate
+	0.03124237060546875 secunde
+
+MERGESORT: numerele au fost sortate
+	0.04686379432678223 secunde
+
+QUICKSORT pivot random: numerele au fost sortate
+	0.04686403274536133 secunde
+
+QUICKSORT pivot mediana din 3: numerele au fost sortate
+	0.04686331748962402 secunde
+
+
+n = 100000, max = 1000000
+
+BUBBLESORT: numerele nu pot fi sortate
+	0 secunde
+
+COUNTSORT: numerele au fost sortate
+	0.17183589935302734 secunde
+
+RADIXSORT baza 256: numerele au fost sortate
+	0.2499556541442871 secunde
+
+RADIXSORT baza 16: numerele au fost sortate
+	0.43739748001098633 secunde
+
+MERGESORT: numerele au fost sortate
+	0.5311379432678223 secunde
+
+QUICKSORT pivot random: numerele au fost sortate
+	0.5310831069946289 secunde
+
+QUICKSORT pivot mediana din 3: numerele au fost sortate
+	0.43739748001098633 secunde
+
+
+n = 1000, max = 1000000000
+
+BUBBLESORT: numerele au fost sortate
+	0.10934948921203613 secunde
+
+COUNTSORT: numerele nu pot fi sortate
+	0 secunde
+
+RADIXSORT baza 256: numerele au fost sortate
+	0.0 secunde
+
+RADIXSORT baza 16: numerele au fost sortate
+	0.0 secunde
+
+MERGESORT: numerele au fost sortate
+	0.015621423721313477 secunde
+
+QUICKSORT pivot random: numerele au fost sortate
+	0.0 secunde
+
+QUICKSORT pivot mediana din 3: numerele au fost sortate
+	0.0 secunde
+
+
+n = 1000000, max = 1000000
+
+BUBBLESORT: numerele nu pot fi sortate
+	0 secunde
+
+COUNTSORT: numerele au fost sortate
+	0.7498273849487305 secunde
+
+RADIXSORT baza 256: numerele au fost sortate
+	2.8122024536132812 secunde
+
+RADIXSORT baza 16: numerele au fost sortate
+	5.723097324371338 secunde
+
+MERGESORT: numerele au fost sortate
+	6.482840538024902 secunde
+
+QUICKSORT pivot random: numerele au fost sortate
+	6.170445680618286 secunde
+
+QUICKSORT pivot mediana din 3: numerele au fost sortate
+	5.779913425445557 secunde
+
+
+n = 300000, max = 6000000
+
+BUBBLESORT: numerele nu pot fi sortate
+	0 secunde
+
+COUNTSORT: numerele nu pot fi sortate
+	0 secunde
+
+RADIXSORT baza 256: numerele au fost sortate
+	0.7654035091400146 secunde
+
+RADIXSORT baza 16: numerele au fost sortate
+	1.7380411624908447 secunde
+
+MERGESORT: numerele au fost sortate
+	1.8328793048858643 secunde
+
+QUICKSORT pivot random: numerele au fost sortate
+	2.1557459831237793 secunde
+
+QUICKSORT pivot mediana din 3: numerele au fost sortate
+	1.9062731266021729 secunde
+
+
